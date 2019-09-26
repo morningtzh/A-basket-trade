@@ -1,6 +1,3 @@
-[submodule "tools/hdf5webgui"]
-	path = tools/hdf5webgui
-	url = https://github.com/folk-lab/hdf5-web-gui.git
 [submodule "data/roowe"]
 	path = data/roowe
 	url = git@github.com:roowe/quantdata.git
